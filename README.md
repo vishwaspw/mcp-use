@@ -159,8 +159,5 @@ MIT License. See the [LICENSE](LICENSE) file for details.
 Vishwas R  
 Feel free to connect on [LinkedIn](https://www.linkedin.com/vishwas645) or explore other projects on [GitHub](https://github.com/vishwaspw)
 
-```
-
----
 
 Let me know if you’d like to turn this into a GitHub Pages landing page or want badges and shield links added at the top!
